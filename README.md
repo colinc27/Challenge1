@@ -17,3 +17,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+
+
+Change Log:
+Step 1: Edited classes for the right side benefits tab and reduced the amount of code in the CSS from 9 sections to 3
+Step 2: Replaced almost all div with sementic elements

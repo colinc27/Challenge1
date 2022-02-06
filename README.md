@@ -19,9 +19,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 The final webpage should look like the following:
-![alt text]( C:\Users\Colin\challenges\challenge1\Challenge1Edited Code\Develop "Description goes here"
-
-
+![webpagescreenshot](./Develop/Finalpage.png "Fianl webpage")
 
 
 Change Log:

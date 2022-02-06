@@ -1,9 +1,9 @@
-# Code Refactor Starter Code
+# MSU Bootcamp Challenge 1: Code Refractor
 
-Goal of this project:
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+READ ME
+
+Project Description:
+The Goal of this project is to take an HTML and CSS file and edit them so that they fulfill the following acceptance criteria:
 
 Acceptance Criteria:
 GIVEN a webpage meets accessibility standards
@@ -20,8 +20,10 @@ THEN I find a concise, descriptive title
 
 
 
+
 Change Log:
 Step 1: Edited classes for the right side benefits tab and reduced the amount of code in the CSS from 9 sections to 3
 Step 2: Replaced almost all div with sementic elements in html
 Step 3: Revised CSS and classes to make the CSS more clear and concise with no duplicates
 Step 4: Added alt texts to every image on the web page.
+Step 5: Edited Read me with new title and chnages the project desctirption. Changed title of the website and moved around the CSS so that it followed the HTML.

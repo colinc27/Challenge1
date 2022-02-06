@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Begin Style for upper portion of the webpage*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*End Style for upper portion of the webpage*/
 
+/*Style for the main 3 sections of the file*/
 .information {
     margin-bottom: 20px;
     padding: 50px;
@@ -91,7 +93,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*End of style for 3 main section*/
 
+/* Style for the Aside Element*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,7 +121,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*End Style for Aside Element*/
 
 .footer {
     padding: 30px;

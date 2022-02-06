@@ -18,6 +18,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+The final webpage should look like the following:
+![alt text]( C:\Users\Colin\challenges\challenge1\Challenge1Edited Code\Develop "Description goes here"
+
 
 
 
@@ -26,4 +29,5 @@ Step 1: Edited classes for the right side benefits tab and reduced the amount of
 Step 2: Replaced almost all div with sementic elements in html
 Step 3: Revised CSS and classes to make the CSS more clear and concise with no duplicates
 Step 4: Added alt texts to every image on the web page.
-Step 5: Edited Read me with new title and chnages the project desctirption. Changed title of the website and moved around the CSS so that it followed the HTML.
+Step 5: Edited Read me with new title and chnages the pro.ject desctirption. Changed title of the website and moved around the CSS so that it followed the HTML.
+Step 6: Added Screen shot to READ ME and added comments to CSS file

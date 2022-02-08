@@ -18,8 +18,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+Here is a link to the deployed website:
+
 The final webpage should look like the following:
 ![webpagescreenshot](./Develop/Finalpage.png "Fianl webpage")
+
 
 
 Change Log:
@@ -29,3 +32,4 @@ Step 3: Revised CSS and classes to make the CSS more clear and concise with no d
 Step 4: Added alt texts to every image on the web page.
 Step 5: Edited Read me with new title and chnages the pro.ject desctirption. Changed title of the website and moved around the CSS so that it followed the HTML.
 Step 6: Added Screen shot to READ ME and added comments to CSS file
+Step 7: Added deployed website URL to the READ ME

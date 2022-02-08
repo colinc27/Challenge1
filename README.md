@@ -1,9 +1,9 @@
 # MSU Bootcamp Challenge 1: Code Refractor
 
-##Project Description
+##Project Description:
 The Goal of this project is to take an HTML and CSS file and edit them so that they fulfill the following acceptance criteria:
 
-##Acceptance Criteria
+##Acceptance Criteria:
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -24,7 +24,7 @@ The final webpage should look like the following:
 
 
 
-##Change Log
+##Change Log:
 Step 1: Edited classes for the right side benefits tab and reduced the amount of code in the CSS from 9 sections to 3
 Step 2: Replaced almost all div with sementic elements in html
 Step 3: Revised CSS and classes to make the CSS more clear and concise with no duplicates
